@@ -20,15 +20,15 @@ macOS 12.2.1
 - Sleep
 - USB Port
 - Ethernet
+- DRM
 - Etc...
 
 ### Not Working
-- iMessage
 - AirDrop (You need a bluetooth card for this)
 
 ### Notes
 - Make sure to use GenSMBIOS to refill the UUID, System Serial Number,...
-- For iMessage you can check [this](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html)
+- For iMessage, you need to run via terminal once, then login with your account, after that it will automatically close, then you will need to open iMessage again and it will work flawlessly
 - For the GPU part, I would recommend you choose another Model because HIS is kinda sus and it's not functioning well on Windows (Linux is fine AFAIK)
 - This config is for macOS 10.15 and above
 - Make sure to do USB Mapping and replace the USBMap.kext before continue.
