@@ -1,8 +1,12 @@
 # Hackintosh-EFI-Monterey-B365M-PRO-VH
-OpenCore v0.7.8  
+OpenCore v0.7.9  
 macOS 12.2.1  
 
 ![img](https://krisbane.github.io/assets/images/macOS.png)
+![iPhoneDevices](https://krisbane.github.io/assets/images/MacPro.jpg)
+![LockScreen](https://krisbane.github.io/assets/images/LockScreenMac.jpg)
+![YouTube](https://krisbane.github.io/assets/images/YouTubeMac.jpg)
+![AppleMusic](https://krisbane.github.io/assets/images/AppleMusic.jpg)
 
 
 ### Specs
@@ -27,6 +31,7 @@ macOS 12.2.1
 - AirDrop (You need a bluetooth card for this)
 
 ### Notes
+- The screeshots you see above are iMacPro1,1 but you can change to MacPro7,1 if you wanted to. (You can see in the iPhone screenshot)
 - Make sure to use GenSMBIOS to refill the UUID, System Serial Number,...
 - For iMessage, you need to run via terminal once, then login with your account, after that it will automatically close, then you will need to open iMessage again and it will work flawlessly
 - For the GPU part, I would recommend you choose another Model because HIS is kinda sus and it's not functioning well on Windows (Linux is fine AFAIK)
