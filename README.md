@@ -2,11 +2,11 @@
 OpenCore v0.7.9  
 macOS 12.2.1  
 
-![img](https://krisbane.github.io/assets/images/macOS.png)
-![iPhoneDevices](https://krisbane.github.io/assets/images/MacPro.jpg)
-![LockScreen](https://krisbane.github.io/assets/images/LockScreenMac.jpg)
-![YouTube](https://krisbane.github.io/assets/images/YouTubeMac.jpg)
-![AppleMusic](https://krisbane.github.io/assets/images/AppleMusic.jpg)
+![img](https://BayuLewis.github.io/assets/images/macOS.png)
+![iPhoneDevices](https://BayuLewis.github.io/assets/images/MacPro.jpg)
+![LockScreen](https://BayuLewis.github.io/assets/images/LockScreenMac.jpg)
+![YouTube](https://BayuLewis.github.io/assets/images/YouTubeMac.jpg)
+![AppleMusic](https://BayuLewis.github.io/assets/images/AppleMusic.jpg)
 
 
 ### Specs
