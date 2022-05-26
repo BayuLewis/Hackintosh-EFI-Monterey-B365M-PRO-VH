@@ -31,6 +31,7 @@ macOS 12.2.1
 - AirDrop (You need a bluetooth card for this)
 
 ### Notes
+- Make sure to use GenSMBIOS to refill some important credentials like MacSerial, UUID,...
 - The screeshots you see above are iMacPro1,1 but you can change to MacPro7,1 if you wanted to. (You can see in the iPhone screenshot)
 - Make sure to use GenSMBIOS to refill the UUID, System Serial Number,...
 - For iMessage, you need to run via terminal once, then login with your account, after that it will automatically close, then you will need to open iMessage again and it will work flawlessly
