@@ -1,6 +1,6 @@
 # Hackintosh-EFI-Monterey-B365M-PRO-VH
-OpenCore v0.7.9  
-macOS 12.2.1  
+OpenCore v0.7.8  
+macOS 12.4    
 
 ![img](https://BayuLewis.github.io/assets/images/macOS12dot4.jpg)
 ![iPhoneDevices](https://BayuLewis.github.io/assets/images/MacPro.jpg)
