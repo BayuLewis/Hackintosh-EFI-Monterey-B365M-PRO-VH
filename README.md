@@ -2,7 +2,7 @@
 OpenCore v0.7.9  
 macOS 12.2.1  
 
-![img](https://BayuLewis.github.io/assets/images/macOS.png)
+![img](https://BayuLewis.github.io/assets/images/macOS12dot4.jpg)
 ![iPhoneDevices](https://BayuLewis.github.io/assets/images/MacPro.jpg)
 ![LockScreen](https://BayuLewis.github.io/assets/images/LockScreenMac.jpg)
 ![YouTube](https://BayuLewis.github.io/assets/images/YouTubeMac.jpg)
