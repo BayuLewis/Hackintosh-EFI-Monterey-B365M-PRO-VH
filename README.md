@@ -2,11 +2,11 @@
 OpenCore v0.8.0  
 macOS 12.4    
 
-![img](https://BayuLewis.github.io/assets/images/macOS12dot4.jpg)
-![iPhoneDevices](https://BayuLewis.github.io/assets/images/MacPro.jpg)
-![LockScreen](https://BayuLewis.github.io/assets/images/LockScreenMac.jpg)
-![YouTube](https://BayuLewis.github.io/assets/images/YouTubeMac.jpg)
-![AppleMusic](https://BayuLewis.github.io/assets/images/AppleMusic.jpg)
+![img](https://BayuLewis.github.io/assets/img/macOS12dot4.jpg)
+![iPhoneDevices](https://BayuLewis.github.io/assets/img/MacPro.jpg)
+![LockScreen](https://BayuLewis.github.io/assets/img/LockScreenMac.jpg)
+![YouTube](https://BayuLewis.github.io/assets/img/YouTubeMac.jpg)
+![AppleMusic](https://BayuLewis.github.io/assets/img/AppleMusic.jpg)
 
 
 ### Specs
